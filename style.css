@@ -37,6 +37,11 @@ body{
     padding: 2em;
 }
 
+.middle{
+    display: flex;
+    flex-direction: column;
+}
+
 .box{
     border-radius: 10px;
     box-shadow: -1px 10px 10px hsla(229, 6%, 66%, .3);
